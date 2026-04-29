@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>KUTTYS FOOD AI COOKING TUTORIAL</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="logo.jpg" alt="Kutty's Food Logo" id="logo-img">
+    <div class="header-title">KUTTYS FOOD AI COOKING TUTORIAL</div>
+  </header>
+  <div style="display: flex; justify-content: center; gap: 1rem; margin-top: 1rem;">
+    <button id="newChatBtn" class="action-btn">New Chat</button>
+    <button id="clearChatBtn" class="action-btn">Clear Chat</button>
+  </div>
+  <div id="chat-container">
+    <div id="messages"></div>
+    <div id="input-area">
+      <textarea id="prompt" placeholder="Type your cooking question..."></textarea>
+      <button id="generateBtn">Send</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
