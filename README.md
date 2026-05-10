@@ -124,3 +124,11 @@ This project is open-source and available under the MIT License.
 
 Sanjay
 GitHub: https://github.com/sanjay-si-vn
+
+## screenshots
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f6384c1b-e58e-406c-9365-37805d03cef7" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/54a12deb-41ca-4110-b5bb-c666ec4d46a3" />
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/054d98a8-72c0-4c24-84a0-c825e3ab6bf2" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/6519d91c-c7b2-4715-94b1-6e893d5fa6b9" />
+
+
